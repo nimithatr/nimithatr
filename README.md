@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nimitha
-- 👀 I’m interested in coding, reading and birding  
+- 👋 Hello, I’m Nimitha
+- 👀 I've experience in Siebel CRM
 - 🌱 I’m currently learning Python and HTML
 
 <!---
